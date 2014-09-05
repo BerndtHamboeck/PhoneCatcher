@@ -1,6 +1,5 @@
 #unity .gitignore file
 Temp/*
-Library/*
 Build/*
 
 ## Ignore Visual Studio temporary files, build results, and
